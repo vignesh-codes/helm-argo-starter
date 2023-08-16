@@ -1,5 +1,5 @@
-replicas: 2
+replicas: 3
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is on the DEV-1 environment!'
+    CUSTOM_HEADER: 'This is on the DEV-2 environment!'
